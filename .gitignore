@@ -1,3 +1,6 @@
+# List any files that should be ignored from the repository here
+# Some standard files to ignore are already included
+
 # Ignore notebook checkpoint files
 .ipynb_checkpoints
 
