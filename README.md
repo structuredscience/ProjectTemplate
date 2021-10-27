@@ -13,15 +13,15 @@ This template lays out a set of recommended folders for organizing files in the 
 These folders are:
 
 - `custom/` custom code for the project
+- `data/` any data from the project that are included in the repository
+- `figures/` any figures from the project that are included in the repository
 - `notebooks/` Jupyter notebooks that do or illustrate parts of the project
 - `scripts/` scripts that run parts of the project
-- `figures/` any figures from the project that are included in the repository
-- `data/` any data from the project that are included in the repository
 
 In addition, the repository should include the following files:
 
-- A LICENSE file, indicating the LICENSE that the code is shared under
-- A requirements.txt file, listing out any dependencies
+- A `LICENSE` file, indicating which license the code is shared under
+- A `requirements.txt` file, listing out any dependencies
 
 ## README Outline
 
